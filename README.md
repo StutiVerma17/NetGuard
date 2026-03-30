@@ -123,22 +123,6 @@ risk_score = min(10,  1  +  service_bonus  +  vt_malicious_count)
 
 ---
 
-## GitHub Repository Structure
-
-Push the following to your GitHub repository:
-
-```
-netguard/
-├── (all project files above)
-├── docs/
-│   ├── Project_Report.docx
-│   ├── Agile_Documentation.docx
-│   └── Presentation.pptx
-├── assignments/          ← folder for previous assignments
-│   └── (your previous assignment files)
-└── license.txt
-```
-
 
 ---
 
