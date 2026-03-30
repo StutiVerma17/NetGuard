@@ -139,14 +139,6 @@ netguard/
 └── license.txt
 ```
 
-**Steps to push to GitHub:**
-```bash
-git init
-git add .
-git commit -m "Initial commit - NetGuard v1.0"
-git remote add origin https://github.com/YOUR_USERNAME/netguard.git
-git push -u origin main
-```
 
 ---
 
